@@ -48,7 +48,7 @@ HTML5
 
 CSS3 (with animations and transitions)
 
-Vanilla JavaScript (no frameworks)
+Vanilla JavaScript 
 
 SVG Icons for modern visuals
 
